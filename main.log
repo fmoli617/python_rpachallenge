@@ -1,0 +1,185 @@
+>>>>> START: RPA Challege
+>
+
+> Página Carregada! 
+
+> Inicío do desafio: 
+
+>PREENCHIMENTO LINHA: 1
+>Campo: First Name, Valor: John
+>Campo preenchido.
+>Campo: Last Name , Valor: Smith
+>Campo preenchido.
+>Campo: Company Name, Valor: IT Solutions
+>Campo preenchido.
+>Campo: Role in Company, Valor: Analyst
+>Campo preenchido.
+>Campo: Address, Valor: 98 North Road
+>Campo preenchido.
+>Campo: Email, Valor: jsmith@itsolutions.co.uk
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40716543298
+>Campo preenchido.
+> LINHA: 1 ENVIADA.
+
+>PREENCHIMENTO LINHA: 2
+>Campo: First Name, Valor: Jane
+>Campo preenchido.
+>Campo: Last Name , Valor: Dorsey
+>Campo preenchido.
+>Campo: Company Name, Valor: MediCare
+>Campo preenchido.
+>Campo: Role in Company, Valor: Medical Engineer
+>Campo preenchido.
+>Campo: Address, Valor: 11 Crown Street
+>Campo preenchido.
+>Campo: Email, Valor: jdorsey@mc.com
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40791345621
+>Campo preenchido.
+> LINHA: 2 ENVIADA.
+
+>PREENCHIMENTO LINHA: 3
+>Campo: First Name, Valor: Albert
+>Campo preenchido.
+>Campo: Last Name , Valor: Kipling
+>Campo preenchido.
+>Campo: Company Name, Valor: Waterfront
+>Campo preenchido.
+>Campo: Role in Company, Valor: Accountant
+>Campo preenchido.
+>Campo: Address, Valor: 22 Guild Street
+>Campo preenchido.
+>Campo: Email, Valor: kipling@waterfront.com
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40735416854
+>Campo preenchido.
+> LINHA: 3 ENVIADA.
+
+>PREENCHIMENTO LINHA: 4
+>Campo: First Name, Valor: Michael
+>Campo preenchido.
+>Campo: Last Name , Valor: Robertson
+>Campo preenchido.
+>Campo: Company Name, Valor: MediCare
+>Campo preenchido.
+>Campo: Role in Company, Valor: IT Specialist
+>Campo preenchido.
+>Campo: Address, Valor: 17 Farburn Terrace
+>Campo preenchido.
+>Campo: Email, Valor: mrobertson@mc.com
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40733652145
+>Campo preenchido.
+> LINHA: 4 ENVIADA.
+
+>PREENCHIMENTO LINHA: 5
+>Campo: First Name, Valor: Doug
+>Campo preenchido.
+>Campo: Last Name , Valor: Derrick
+>Campo preenchido.
+>Campo: Company Name, Valor: Timepath Inc.
+>Campo preenchido.
+>Campo: Role in Company, Valor: Analyst
+>Campo preenchido.
+>Campo: Address, Valor: 99 Shire Oak Road
+>Campo preenchido.
+>Campo: Email, Valor: dderrick@timepath.co.uk
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40799885412
+>Campo preenchido.
+> LINHA: 5 ENVIADA.
+
+>PREENCHIMENTO LINHA: 6
+>Campo: First Name, Valor: Jessie
+>Campo preenchido.
+>Campo: Last Name , Valor: Marlowe
+>Campo preenchido.
+>Campo: Company Name, Valor: Aperture Inc.
+>Campo preenchido.
+>Campo: Role in Company, Valor: Scientist
+>Campo preenchido.
+>Campo: Address, Valor: 27 Cheshire Street
+>Campo preenchido.
+>Campo: Email, Valor: jmarlowe@aperture.us
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40733154268
+>Campo preenchido.
+> LINHA: 6 ENVIADA.
+
+>PREENCHIMENTO LINHA: 7
+>Campo: First Name, Valor: Stan
+>Campo preenchido.
+>Campo: Last Name , Valor: Hamm
+>Campo preenchido.
+>Campo: Company Name, Valor: Sugarwell
+>Campo preenchido.
+>Campo: Role in Company, Valor: Advisor
+>Campo preenchido.
+>Campo: Address, Valor: 10 Dam Road
+>Campo preenchido.
+>Campo: Email, Valor: shamm@sugarwell.org
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40712462257
+>Campo preenchido.
+> LINHA: 7 ENVIADA.
+
+>PREENCHIMENTO LINHA: 8
+>Campo: First Name, Valor: Michelle
+>Campo preenchido.
+>Campo: Last Name , Valor: Norton
+>Campo preenchido.
+>Campo: Company Name, Valor: Aperture Inc.
+>Campo preenchido.
+>Campo: Role in Company, Valor: Scientist
+>Campo preenchido.
+>Campo: Address, Valor: 13 White Rabbit Street
+>Campo preenchido.
+>Campo: Email, Valor: mnorton@aperture.us
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40731254562
+>Campo preenchido.
+> LINHA: 8 ENVIADA.
+
+>PREENCHIMENTO LINHA: 9
+>Campo: First Name, Valor: Stacy
+>Campo preenchido.
+>Campo: Last Name , Valor: Shelby
+>Campo preenchido.
+>Campo: Company Name, Valor: TechDev
+>Campo preenchido.
+>Campo: Role in Company, Valor: HR Manager
+>Campo preenchido.
+>Campo: Address, Valor: 19 Pineapple Boulevard
+>Campo preenchido.
+>Campo: Email, Valor: sshelby@techdev.com
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40741785214
+>Campo preenchido.
+> LINHA: 9 ENVIADA.
+
+>PREENCHIMENTO LINHA: 10
+>Campo: First Name, Valor: Lara
+>Campo preenchido.
+>Campo: Last Name , Valor: Palmer
+>Campo preenchido.
+>Campo: Company Name, Valor: Timepath Inc.
+>Campo preenchido.
+>Campo: Role in Company, Valor: Programmer
+>Campo preenchido.
+>Campo: Address, Valor: 87 Orange Street
+>Campo preenchido.
+>Campo: Email, Valor: lpalmer@timepath.co.uk
+>Campo preenchido.
+>Campo: Phone Number, Valor: 40731653845
+>Campo preenchido.
+> LINHA: 10 ENVIADA.
+
+> FIM DO PREENCHIMENTO
+
+> RESULTADO: 
+> Porcentagem de acerto: 100%.
+> Quantidade de campos preenchidos corretamente: 70.
+> Tempo gasto 19755 milisegundos
+
+> END: RPA Challege
